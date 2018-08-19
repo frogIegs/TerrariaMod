@@ -1,1 +1,9 @@
-Froglegs' Terraria Mod is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+My terraria mod currently adds;
+
+0 Recipes
+0 Items
+0 Tiles
+0 Walls
+0 Crafting Stations
+0 Enemies
+0 NPCs
