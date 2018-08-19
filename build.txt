@@ -1,0 +1,8 @@
+author = froglegs
+version = 0.1
+displayName = Froglegs' Terraria Mod
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, TerrariaSprites\*
+includePDB = true
